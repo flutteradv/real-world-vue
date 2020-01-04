@@ -1,0 +1,658 @@
+{
+  "events": [
+    {
+      "id": 5928101,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "animal welfare",
+      "organizer": "Adam",
+      "title": "Cat Cabaret",
+      "description": "Yay felines!",
+      "location": "Meow Town",
+      "date": "2019-01-03T21:54:00.000Z",
+      "time": "2:00",
+      "attendees": [
+        {
+          "name": "John"
+        },
+        {
+          "name": "Tian"
+        },
+        {
+          "name": "Mousa"
+        },
+        {
+          "name": "Olalekan"
+        }
+      ]
+    },
+    {
+      "id": 8419988,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "animal welfare",
+      "organizer": "Adam",
+      "title": "Kitty Cluster",
+      "description": "Yay cats!",
+      "location": "Catlandia",
+      "date": "2019-01-31T22:09:00.000Z",
+      "time": "7:00",
+      "attendees": []
+    },
+    {
+      "id": 4582797,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "animal welfare",
+      "organizer": "Adam",
+      "title": "Puppy Parade",
+      "description": "Yay pups!",
+      "location": "Puptown ",
+      "date": "2019-02-02T23:27:00.000Z",
+      "time": "1:00",
+      "attendees": []
+    },
+    {
+      "id": 9557566,
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Tian Schoeman"
+      },
+      "title": "GO hiking",
+      "description": "Hike run jump",
+      "location": "Mahshahr",
+      "date": "2020-01-03T04:41:00.000Z",
+      "time": "4:00",
+      "attendees": []
+    },
+    {
+      "id": 9970309,
+      "category": "education",
+      "organizer": {
+        "id": "abc123",
+        "name": "Tian Schoeman"
+      },
+      "title": "learn vue",
+      "description": "vue is good",
+      "location": "here",
+      "date": "2020-01-15T04:44:00.000Z",
+      "time": "15:00",
+      "attendees": []
+    },
+    {
+      "id": 7935169,
+      "category": "education",
+      "organizer": {
+        "id": "abc123",
+        "name": "Tian Schoeman"
+      },
+      "title": "Android",
+      "description": "learn flutter",
+      "location": "NY",
+      "date": "2020-01-09T08:26:00.000Z",
+      "time": "6:00",
+      "attendees": []
+    },
+    {
+      "id": 5105380,
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc123",
+        "name": "Tian Schoeman"
+      },
+      "title": "wash dog",
+      "description": "dogs are good",
+      "location": "US",
+      "date": "2020-01-15T08:32:00.000Z",
+      "time": "6:00",
+      "attendees": []
+    },
+    {
+      "id": 5595010,
+      "user": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "category": "food",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "Fish",
+      "description": "Barbeque Fish",
+      "location": "Mah",
+      "date": "2020-01-01T08:33:00.000Z",
+      "time": "3:00",
+      "attendees": []
+    },
+    {
+      "id": 5757800,
+      "user": {
+        "id": "abc123",
+        "name": "Tian Schoeman"
+      },
+      "category": "housing",
+      "organizer": {
+        "id": "abc123",
+        "name": "Tian Schoeman"
+      },
+      "title": "Clean home",
+      "description": "Cleaning is good",
+      "location": "Mah",
+      "date": "2020-01-15T08:34:00.000Z",
+      "time": "3:00",
+      "attendees": []
+    },
+    {
+      "id": 3378978,
+      "category": "education",
+      "organizer": {
+        "id": "abc123",
+        "name": "Tian Schoeman"
+      },
+      "title": "ML",
+      "description": "learn ML",
+      "location": "US",
+      "date": "2020-01-15T08:36:00.000Z",
+      "time": "5:00",
+      "attendees": []
+    },
+    {
+      "id": 2971665,
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Tian Schoeman"
+      },
+      "title": "Go Eram",
+      "description": "Eram is beautiful",
+      "location": "Memko",
+      "date": "2020-01-02T08:39:00.000Z",
+      "time": "4:00",
+      "attendees": []
+    },
+    {
+      "id": 6277248,
+      "user": {
+        "id": "abc123",
+        "name": "Tian Schoeman"
+      },
+      "category": "education",
+      "organizer": {
+        "id": "abc123",
+        "name": "Tian Schoeman"
+      },
+      "title": "Learn Vuex",
+      "description": "Vue is great",
+      "location": "US",
+      "date": "2020-01-10T08:41:00.000Z",
+      "time": "17:00",
+      "attendees": []
+    },
+    {
+      "id": 9595670,
+      "category": "education",
+      "organizer": {
+        "id": "abc123",
+        "name": "Tian Schoeman"
+      },
+      "title": "Learn math",
+      "description": "math is base of IT",
+      "location": "US",
+      "date": "2020-01-14T08:46:00.000Z",
+      "time": "3:00",
+      "attendees": []
+    },
+    {
+      "id": 3434994,
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Tian Schoeman"
+      },
+      "title": "Go Band",
+      "description": "Band is great",
+      "location": "OIrum",
+      "date": "2020-01-15T09:24:00.000Z",
+      "time": "2:00",
+      "attendees": []
+    },
+    {
+      "id": 1845201,
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Tian Schoeman"
+      },
+      "title": "Shikh Ahmad",
+      "description": "Naghadeg is great",
+      "location": "Naghadeg",
+      "date": "2020-01-02T09:28:00.000Z",
+      "time": "4:00",
+      "attendees": []
+    },
+    {
+      "id": 9650739,
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Tian Schoeman"
+      },
+      "title": "Go to Deylam",
+      "description": "Buy fish",
+      "location": "Deylam",
+      "date": "2020-01-16T15:06:00.000Z",
+      "time": "14:00",
+      "attendees": []
+    },
+    {
+      "id": 507134,
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Tian"
+      },
+      "title": "Running",
+      "description": "Run in park",
+      "location": "Memko",
+      "date": "2020-01-01T05:07:00.000Z",
+      "time": "4:00",
+      "attendees": []
+    },
+    {
+      "id": 9788838,
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Tian"
+      },
+      "title": "Climbing",
+      "description": "Go To Sultan Yaghub",
+      "location": "Nagadeh",
+      "date": "2020-01-02T05:09:00.000Z",
+      "time": "9:00",
+      "attendees": []
+    },
+    {
+      "id": 2945312,
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Tian"
+      },
+      "title": "Biking",
+      "description": "Go biking",
+      "location": "Orumia",
+      "date": "2020-01-02T05:11:00.000Z",
+      "time": "17:00",
+      "attendees": []
+    },
+    {
+      "id": 1501758,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "education",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "title": "learn CS",
+      "description": "CS at stanford",
+      "location": "CA",
+      "date": "2020-01-02T05:17:00.000Z",
+      "time": "4:00",
+      "attendees": []
+    },
+    {
+      "id": 707610,
+      "category": "nature",
+      "user": {
+        "id": "abc123",
+        "name": "Tian"
+      },
+      "organizer": {
+        "id": "abc123",
+        "name": "Tian"
+      },
+      "title": "Ski",
+      "description": "Go Skiing",
+      "location": "Tehran",
+      "date": "2020-01-14T05:37:00.000Z",
+      "time": "4:00",
+      "attendees": []
+    },
+    {
+      "id": 460186,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "title": "climbing",
+      "description": "yeddi goz",
+      "location": "Naga",
+      "date": "2020-01-08T05:43:00.000Z",
+      "time": "9:00",
+      "attendees": []
+    },
+    {
+      "id": 806208,
+      "category": "nature",
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "title": "Hiking",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 3184642,
+      "category": "animal welfare",
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "title": "ssads",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 1404938,
+      "category": "animal welfare",
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 871089,
+      "category": "education",
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 6354589,
+      "category": "nature",
+      "user": {
+        "id": "abc123",
+        "name": "Tian"
+      },
+      "organizer": {
+        "id": "abc123",
+        "name": "Tian"
+      },
+      "title": "Sardar Soleimani",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 7413534,
+      "category": "community",
+      "user": {
+        "id": "abc123",
+        "name": "Tian"
+      },
+      "organizer": {
+        "id": "abc123",
+        "name": "Tian"
+      },
+      "title": "Soleimani",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 2931528,
+      "category": "nature",
+      "user": {
+        "id": "abc123",
+        "name": "Tian"
+      },
+      "organizer": {
+        "id": "abc123",
+        "name": "Tian"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 823373,
+      "category": "nature",
+      "user": {
+        "id": "abc123",
+        "name": "Tian"
+      },
+      "organizer": {
+        "id": "abc123",
+        "name": "Tian"
+      },
+      "title": "sasad",
+      "description": "sssad",
+      "location": "asds",
+      "date": "2020-01-15T07:10:00.000Z",
+      "time": "4:00",
+      "attendees": []
+    },
+    {
+      "id": 456926,
+      "category": "housing",
+      "user": {
+        "id": "abc123",
+        "name": "Tian"
+      },
+      "organizer": {
+        "id": "abc123",
+        "name": "Tian"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 8332700,
+      "category": "housing",
+      "user": {
+        "id": "abc123",
+        "name": "Tian"
+      },
+      "organizer": {
+        "id": "abc123",
+        "name": "Tian"
+      },
+      "title": "asdasd",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 6915137,
+      "category": "nature",
+      "user": {
+        "id": "abc123",
+        "name": "Tian"
+      },
+      "organizer": {
+        "id": "abc123",
+        "name": "Tian"
+      },
+      "title": "asxas",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 3724139,
+      "category": "animal welfare",
+      "user": {
+        "id": "abc123",
+        "name": "Tian"
+      },
+      "organizer": {
+        "id": "abc123",
+        "name": "Tian"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 8944665,
+      "category": "nature",
+      "user": {
+        "id": "abc123",
+        "name": "Tian"
+      },
+      "organizer": {
+        "id": "abc123",
+        "name": "Tian"
+      },
+      "title": "asdsad",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 5352514,
+      "category": "animal welfare",
+      "user": {
+        "id": "abc123",
+        "name": "Tian"
+      },
+      "organizer": {
+        "id": "abc123",
+        "name": "Tian"
+      },
+      "title": "asdsadsa",
+      "description": "asdsad",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 6555035,
+      "category": "nature",
+      "user": {
+        "id": "abc123",
+        "name": "Tian"
+      },
+      "organizer": {
+        "id": "abc123",
+        "name": "Tian"
+      },
+      "title": "asdsad",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 8767309,
+      "category": "nature",
+      "user": {
+        "id": "abc123",
+        "name": "Tian"
+      },
+      "organizer": {
+        "id": "abc123",
+        "name": "Tian"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 9045386,
+      "category": "housing",
+      "user": {
+        "id": "abc123",
+        "name": "Tian"
+      },
+      "organizer": {
+        "id": "abc123",
+        "name": "Tian"
+      },
+      "title": "sdfdsf",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    }
+  ]
+}
